@@ -54,5 +54,3 @@ PS1="$PS1"'$([ -n "$TMUX" ] && tmux setenv TMUXPWD_$(tmux display -p "#I_#P") "$
 
 
 tmux
-tmux new-window -n 'NetStat' 'watch -n1 netstat -n -A inet'
-tmux new-window -n 'W' 'watch -n1 w'
