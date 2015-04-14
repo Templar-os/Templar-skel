@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=help
+Type=Application
+Exec=/usr/bin/google-chrome-stable "http://www.spike-pentesting.org"
+Name=Spike Linux
